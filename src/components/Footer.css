@@ -1,0 +1,28 @@
+.footer{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:20px;
+    margin-top:10px;
+}
+
+.text a{
+    cursor:pointer;
+    text-decoration: none;
+    color:gray;
+    font-weight: 1;
+    letter-spacing: 1px;
+}
+.text a:hover{
+    color:white;
+}
+.footer >p{
+    font-weight: 1;
+    cursor:pointer;
+    letter-spacing: 1px;
+    color:gray;
+}
+.footer >p:hover{
+    color:white;
+
+}

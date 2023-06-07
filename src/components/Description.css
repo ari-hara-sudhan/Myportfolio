@@ -1,0 +1,18 @@
+.des{
+    align-items: center;
+    text-align: center;
+    margin-top:20px;
+    padding:20px;
+}
+
+.des >h3{
+    font-size: 22px;
+    font-weight: 1;
+    color:gray;
+    letter-spacing: 2px;
+}
+.des >p{
+    margin-top:10px;
+    color:gray;
+    letter-spacing: 2px;
+}

@@ -1,0 +1,21 @@
+.banner{
+    align-items: center;
+    text-align: center;
+}
+
+.banner>p{
+    margin-top:10px;
+    cursor:pointer;
+    font-size: 15px;
+    font-weight: 1;
+    color:gray;
+    letter-spacing: 2px;
+}
+
+.banner>h1{
+    font-size: 50px;
+    margin-top:10px;
+    font-weight: 1;
+    color:gray;
+    letter-spacing: 2px;
+}
